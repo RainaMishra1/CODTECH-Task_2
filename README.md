@@ -3,6 +3,12 @@ Company:CODETECH IT SOLUTION
 Domain:CYBERSECURITY AND ETHICAL HACKING 
 Duration:JULY TO AUGUST 
 Mentor:MUZAMMIL AHMED
+
+Overview of the Project
+
+Project:Vulnerability Scanning Tool
+![image](https://github.com/user-attachments/assets/4bfd165a-af99-4076-84de-5b5eb1fc2e02)
+
 Objective of Vulnerability Scanning Tools
 Vulnerability scanning tools are essential components of an organization's security strategy, aimed at identifying and mitigating potential security risks. The primary objective is to systematically scan systems, networks, applications, and databases to detect security vulnerabilities that could be exploited by malicious actors. 
 
